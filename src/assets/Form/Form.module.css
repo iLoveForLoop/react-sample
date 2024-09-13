@@ -1,0 +1,23 @@
+.container{
+    background-color: rgb(198, 198, 198);
+    margin: auto;
+    min-width: 200px;
+    max-width: 500px;
+    padding: 20px;
+}
+
+input[type='text'], 
+input[type='number']{
+    width: 97%;
+    display: block  ;
+}
+
+
+input[type='checkbox']{
+    margin: auto 10px;
+    margin-bottom: 20px;
+}
+
+h1{
+    color: rgb(255, 0, 217);
+}
